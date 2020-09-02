@@ -1,4 +1,4 @@
-name: flutter_app
+name: I_am_Rich
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -43,6 +43,9 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+
+  assets:
+    - images/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
